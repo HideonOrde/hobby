@@ -5,4 +5,5 @@ for(var i =1; i<=6; i++){
     result+=i;
 }
 // 输出结果
+
 console.log(result);
